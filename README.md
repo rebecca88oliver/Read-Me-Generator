@@ -1,6 +1,6 @@
  ### **Read-Me Generator**
-    Click here to view a demo video: (https://drive.google.com/file/d/1veBNr6G8yILkIwAwW_uAqcJnYovG3nk-/view)
-    
+    Click here to view a demo video: [DEMO](https://drive.google.com/file/d/1veBNr6G8yILkIwAwW_uAqcJnYovG3nk-/view)
+
     ## Description 
     Generates a read-me for git-hub
     ## Table of contents
